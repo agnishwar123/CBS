@@ -80,3 +80,20 @@
 .football_competition i {
     float: right;
 }
+
+.environment_li {
+    margin-top: 13px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img {
+    border-radius: 30px;
+}
+
+.environment_li p {
+    margin-top: 10px;
+}
